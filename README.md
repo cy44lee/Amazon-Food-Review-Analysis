@@ -8,4 +8,4 @@
 
 **Tools and Models:** Python, Tableau, R, Sentiment analysis (Textblob), Topic modeling (LDA and NMF with CountVectorizer and TfidfVectorizer), Logistic regression
 
-**Data:** Review of Amazon food products [Link to Data](https://www.kaggle.com/snap/amazon-fine-food-reviews/code?datasetId=18&language=R)
+**Data:** Review of Amazon food products [Link to Data](https://www.kaggle.com/snap/amazon-fine-food-reviews)
